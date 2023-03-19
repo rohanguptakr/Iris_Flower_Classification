@@ -1,2 +1,2 @@
-# OIBSIP_Task1
+# Iris Flower Classification
 Iris Flower Classification
